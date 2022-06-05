@@ -7342,3 +7342,16 @@ li.active .head-ic-bg img.inactive {
       width: 75px;
       height: 75px;
 }
+
+.canvas-btn {
+      align-items: center;
+      border: 2px solid #333;
+      border-radius: 50%;
+      width: 20px;
+      justify-content: center;
+      height: 20px;
+      -webkit-border-radius: 50%;
+      -moz-border-radius: 50%;
+      -ms-border-radius: 50%;
+      -o-border-radius: 50%;
+}
